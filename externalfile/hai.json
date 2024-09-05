@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1511",
+    "name": "dinesh",
+    "role": "tester",
+    "phoneno": "6669694",
+    "adderes": {
+      "city": "chennai",
+      "satae": "tmailnadu",
+      "nastilty": "indhian"
+    },
+    "hobise": [
+      "testing",
+      "java",
+      "automation",
+      "dinesh"
+    ]
+  },
+  {
+    "name": "dinessh",
+    "role ": "Tester",
+    "ponit": "nick",
+    "id": "e9f7"
+  },
+  {
+    "id": "d54a",
+    "name": "murudu",
+    "lastename": "dinesh",
+    "mail id": "dineshmeij@gmail.com",
+    "adders": "{chity=cheennai, location=avs buillding, street=thuckaya}",
+    "skiles": "[java, selenium, paythan]"
+  },
+  {
+    "id": "c7db",
+    "name": "murudu",
+    "lastename": "dinesh",
+    "mail id": "dineshmeij@gmail.com",
+    "adders": "{chity=cheennai, location=avs buillding, street=thuckaya}",
+    "skiles": "[java, selenium, paythan]"
+  },
+  {
+    "id": "4299",
+    "name": "hol",
+    "role": "bbfj",
+    "age": 45,
+    "class": "hsdjh",
+    "faimly_detailes": {
+      "city": "chennai",
+      "satae": "tmailnadu",
+      "nastilty": "indhian"
+    }
+  },
+  {
+    "id": "1dd3",
+    "name": "murudu",
+    "lastename": "dinesh",
+    "mail id": "dineshmeij@gmail.com",
+    "adders": {
+      "city": "murudu",
+      "stret": "dinesh",
+      "landmark": "dineshmeij@gmail.com"
+    },
+    "skiles": "[java, selenium, paythan]"
+  }
+]
