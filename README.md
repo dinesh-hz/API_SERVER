@@ -1,0 +1,1 @@
+i did this project local host webserver , i did all rqust likes are GET,POST,PUT,DELETE  . i have done hard core data and  taking frome external file likes notepad,excel sheet. i addcted  newman HTML and junit reports 
